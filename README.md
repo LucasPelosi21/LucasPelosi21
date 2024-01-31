@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS
+- 💻 &nbsp; NodeJS | TypeScript | Docker
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | Git
