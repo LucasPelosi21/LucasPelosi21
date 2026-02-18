@@ -1,30 +1,28 @@
 <h2> Hey there! I'm Lucas Pelosi.
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 Sobre Mim
 
-- 🔭 &nbsp; I’m currently learning ...
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying ...
-- 💼 &nbsp; Back-End Developer
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🚀 &nbsp; Backend Engineer | Node.js & TypeScript <br/>
+- 🎓 &nbsp; Atualmente cursando **MBA em Arquitetura Full Cycle**.
+- ☁️ &nbsp; **AWS Certified Developer - Associate**.
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Stack Tecnológico
 
-- 💻 &nbsp; NodeJS | TypeScript | Docker
-- 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Visual Studio code | Git
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPelosi21&layout=compact)](https://github.com/LucasPelosi21/github-readme-stats)
-
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/lucaspelosialmeida/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="lucaspelosi21@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-**-------under construction-------**
